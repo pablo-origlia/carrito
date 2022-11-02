@@ -1,0 +1,11 @@
+.changuito {
+  position: fixed;
+  background-color: bisque;
+  right: 0;
+  top: 0;
+  width: 400px;
+}
+
+.producto {
+  max-width: 225px;
+}
